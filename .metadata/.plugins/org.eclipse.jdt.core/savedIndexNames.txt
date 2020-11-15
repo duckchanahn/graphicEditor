@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+D:\Code\GraphicEditor\.metadata\.plugins\org.eclipse.jdt.core
+2498283261.index
+1527250164.index
