@@ -2,7 +2,7 @@
 Java Paint
 
 ***
-JDK : 1.8 <br>
+JDK : 1.9 <br>
 Eclipse
 ***
 
